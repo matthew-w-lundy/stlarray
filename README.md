@@ -15,3 +15,9 @@ from stlarray.array2stl import makestl
 makestl(<array>)
 ```
 Big arrays make big files
+
+### Options
+
+```
+makestl(filename="output.stl",basefrac=0.125,relheight=0.5)
+```
