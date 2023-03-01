@@ -1,7 +1,7 @@
 # stlarray
 Make numpy array into stl files
 
-##Install
+## Install
 
 ```
 git clone https://github.com/matthew-w-lundy/stlarray
