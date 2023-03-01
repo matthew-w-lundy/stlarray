@@ -1,0 +1,8 @@
+setup.py
+stlarray/__init__.py
+stlarray/array2stl.py
+stlarray.egg-info/PKG-INFO
+stlarray.egg-info/SOURCES.txt
+stlarray.egg-info/dependency_links.txt
+stlarray.egg-info/requires.txt
+stlarray.egg-info/top_level.txt
