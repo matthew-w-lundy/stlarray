@@ -7,8 +7,8 @@ from stlarray.array2stl import makestl
 image_file = get_pkg_data_filename('tutorials/FITS-images/HorseHead.fits')
 image_data = fits.getdata(image_file, ext=0)
 
-rowbin=5
-colbin=5
+rowbin=10
+colbin=10
 
 image_data=image_data[:(np.shape(image_data)[0]//rowbin)*rowbin,:(np.shape(image_data)[0]//colbin)*colbin]
 
